@@ -1,0 +1,28 @@
+C:\csharp FIAE 2\Drucken\Drucken\bin\Debug\Drucken.exe.config
+C:\csharp FIAE 2\Drucken\Drucken\bin\Debug\Drucken.exe
+C:\csharp FIAE 2\Drucken\Drucken\bin\Debug\Drucken.pdb
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.csprojResolveAssemblyReference.cache
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.Form1.resources
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.Properties.Resources.resources
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.csproj.GenerateResource.Cache
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.exe
+C:\csharp FIAE 2\Drucken\Drucken\obj\Debug\Drucken.pdb
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\bin\Debug\Drucken.exe.config
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.exe
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.pdb
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\bin\Debug\Drucken.exe
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\bin\Debug\Drucken.pdb
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.csprojResolveAssemblyReference.cache
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.Form1.resources
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.Properties.Resources.resources
+C:\Users\Maik Hoffmann\Desktop\Drucken\Drucken\obj\Debug\Drucken.csproj.GenerateResource.Cache
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\bin\Debug\Drucken.exe.config
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\bin\Debug\Drucken.exe
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\bin\Debug\Drucken.pdb
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.csprojAssemblyReference.cache
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.Form1.resources
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.Properties.Resources.resources
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.csproj.GenerateResource.cache
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.csproj.CoreCompileInputs.cache
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.exe
+D:\#durcharbeiten\VisualStudio_C#\Drucken\Drucken\obj\Debug\Drucken.pdb

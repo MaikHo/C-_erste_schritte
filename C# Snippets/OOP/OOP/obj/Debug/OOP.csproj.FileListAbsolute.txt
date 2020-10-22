@@ -1,0 +1,6 @@
+C:\csharp 2015 3\OOP\OOP\bin\Debug\OOP.exe.config
+C:\csharp 2015 3\OOP\OOP\bin\Debug\OOP.exe
+C:\csharp 2015 3\OOP\OOP\bin\Debug\OOP.pdb
+C:\csharp 2015 3\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\csharp 2015 3\OOP\OOP\obj\Debug\OOP.exe
+C:\csharp 2015 3\OOP\OOP\obj\Debug\OOP.pdb

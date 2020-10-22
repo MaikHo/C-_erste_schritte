@@ -1,0 +1,25 @@
+C:\csharp FIAE 2\MSOffice\MSOffice\bin\Debug\MSOffice.exe.config
+C:\csharp FIAE 2\MSOffice\MSOffice\bin\Debug\MSOffice.exe
+C:\csharp FIAE 2\MSOffice\MSOffice\bin\Debug\MSOffice.pdb
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.csprojResolveAssemblyReference.cache
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.ResolveComReference.cache
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.Form1.resources
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.Properties.Resources.resources
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.GenerateResource.Cache
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.exe
+C:\csharp FIAE 2\MSOffice\MSOffice\obj\Debug\MSOffice.pdb
+C:\workplace\todo\VisualStudio_C#\MSOffice\MSOffice\MSOffice\bin\Debug\MSOffice.exe.config
+C:\workplace\todo\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.ResolveComReference.cache
+C:\workplace\todo\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.exe
+C:\workplace\todo\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.pdb
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\bin\Debug\MSOffice.exe.config
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\bin\Debug\MSOffice.exe
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\bin\Debug\MSOffice.pdb
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.csprojAssemblyReference.cache
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.ResolveComReference.cache
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.Form1.resources
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.Properties.Resources.resources
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.GenerateResource.cache
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.csproj.CoreCompileInputs.cache
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.exe
+D:\#durcharbeiten\VisualStudio_C#\MSOffice\MSOffice\MSOffice\obj\Debug\MSOffice.pdb

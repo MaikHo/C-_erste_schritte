@@ -1,0 +1,6 @@
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\bin\Debug\SpezielleFunktionen.exe.config
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\bin\Debug\SpezielleFunktionen.exe
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\bin\Debug\SpezielleFunktionen.pdb
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\obj\Debug\SpezielleFunktionen.csprojResolveAssemblyReference.cache
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\obj\Debug\SpezielleFunktionen.exe
+C:\csharp 2015 3\SpezielleFunktionen\SpezielleFunktionen\obj\Debug\SpezielleFunktionen.pdb

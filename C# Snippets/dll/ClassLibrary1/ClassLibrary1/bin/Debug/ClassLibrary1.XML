@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibrary1.Class1.Testmethode(System.Int32)">
+            <summary>
+            Meine Testmethode
+            </summary>
+            <param name="value">Wert für dies und das</param>
+            <returns>Return Wert</returns>
+        </member>
+    </members>
+</doc>

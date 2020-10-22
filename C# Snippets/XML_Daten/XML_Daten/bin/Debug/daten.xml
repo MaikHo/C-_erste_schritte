@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mitarbeiterdaten>
+	<Mitarbeiter>
+		<Nachname>Mustermann</Nachname>
+		<Vorname>Max</Vorname>
+		<Tel>030-12345</Tel>
+	</Mitarbeiter>
+	<Mitarbeiter>
+		<Nachname>Musterfrau</Nachname>
+		<Vorname>Maxi</Vorname>
+		<Tel>030-58742</Tel>
+	</Mitarbeiter>
+	<Mitarbeiter>
+		<Nachname>Müller</Nachname>
+		<Vorname>Hans</Vorname>
+		<Tel>089-65376</Tel>
+	</Mitarbeiter>
+</Mitarbeiterdaten>

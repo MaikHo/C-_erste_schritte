@@ -1,0 +1,6 @@
+X:\0_scripte\C#\Grundlagen\Grundlagen\bin\Debug\Grundlagen.exe.config
+X:\0_scripte\C#\Grundlagen\Grundlagen\bin\Debug\Grundlagen.exe
+X:\0_scripte\C#\Grundlagen\Grundlagen\bin\Debug\Grundlagen.pdb
+X:\0_scripte\C#\Grundlagen\Grundlagen\obj\Debug\Grundlagen.csprojResolveAssemblyReference.cache
+X:\0_scripte\C#\Grundlagen\Grundlagen\obj\Debug\Grundlagen.exe
+X:\0_scripte\C#\Grundlagen\Grundlagen\obj\Debug\Grundlagen.pdb

@@ -1,0 +1,19 @@
+C:\csharp FIAE 2\XML_Daten\XML_Daten\bin\Debug\XML_Daten.exe.config
+C:\csharp FIAE 2\XML_Daten\XML_Daten\bin\Debug\XML_Daten.exe
+C:\csharp FIAE 2\XML_Daten\XML_Daten\bin\Debug\XML_Daten.pdb
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.csprojResolveAssemblyReference.cache
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.Form1.resources
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.Properties.Resources.resources
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.csproj.GenerateResource.Cache
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.exe
+C:\csharp FIAE 2\XML_Daten\XML_Daten\obj\Debug\XML_Daten.pdb
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\bin\Debug\XML_Daten.exe.config
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\bin\Debug\XML_Daten.exe
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\bin\Debug\XML_Daten.pdb
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.csprojAssemblyReference.cache
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.Form1.resources
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.Properties.Resources.resources
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.csproj.GenerateResource.cache
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.csproj.CoreCompileInputs.cache
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.exe
+D:\#durcharbeiten\VisualStudio_C#\XML_Daten\XML_Daten\XML_Daten\obj\Debug\XML_Daten.pdb

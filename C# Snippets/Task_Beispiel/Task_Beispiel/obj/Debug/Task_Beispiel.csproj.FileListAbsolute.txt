@@ -1,0 +1,19 @@
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe.config
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.pdb
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.csprojResolveAssemblyReference.cache
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.exe
+C:\csharp FIAE 2\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.pdb
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe.config
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.exe
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.pdb
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.pdb
+C:\workplace\todo\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.csprojResolveAssemblyReference.cache
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe.config
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.exe
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\bin\Debug\Task_Beispiel.pdb
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.csprojAssemblyReference.cache
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.csproj.CoreCompileInputs.cache
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.exe
+D:\#durcharbeiten\VisualStudio_C#\Task_Beispiel\Task_Beispiel\Task_Beispiel\obj\Debug\Task_Beispiel.pdb

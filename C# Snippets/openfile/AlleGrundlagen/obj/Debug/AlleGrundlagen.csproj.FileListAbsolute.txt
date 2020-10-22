@@ -1,0 +1,9 @@
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\bin\Debug\AlleGrundlagen.exe.config
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\bin\Debug\AlleGrundlagen.exe
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\bin\Debug\AlleGrundlagen.pdb
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.csprojResolveAssemblyReference.cache
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.Form1.resources
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.Properties.Resources.resources
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.csproj.GenerateResource.Cache
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.exe
+N:\1_Projekte_Tools\XX_9_Zwischenspeicher\AlleGrundlagen\AlleGrundlagen\AlleGrundlagen\obj\Debug\AlleGrundlagen.pdb

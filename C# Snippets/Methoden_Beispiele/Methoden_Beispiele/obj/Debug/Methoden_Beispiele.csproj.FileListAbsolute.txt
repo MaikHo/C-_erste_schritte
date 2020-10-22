@@ -1,0 +1,6 @@
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\bin\Debug\Methoden_Beispiele.exe.config
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\bin\Debug\Methoden_Beispiele.exe
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\bin\Debug\Methoden_Beispiele.pdb
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\obj\Debug\Methoden_Beispiele.csprojResolveAssemblyReference.cache
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\obj\Debug\Methoden_Beispiele.exe
+C:\csharp 2015 3\Methoden_Beispiele\Methoden_Beispiele\obj\Debug\Methoden_Beispiele.pdb

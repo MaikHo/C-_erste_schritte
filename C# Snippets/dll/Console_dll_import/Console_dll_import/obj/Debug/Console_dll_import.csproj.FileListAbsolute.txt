@@ -1,0 +1,9 @@
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\Console_dll_import.exe.config
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\Console_dll_import.exe
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\Console_dll_import.pdb
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\ClassLibrary.dll
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\ClassLibrary.pdb
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\obj\Debug\Console_dll_import.csprojResolveAssemblyReference.cache
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\obj\Debug\Console_dll_import.exe
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\obj\Debug\Console_dll_import.pdb
+C:\open365\Open365\Workplace\VisualStudio_C#\Console_dll_import\Console_dll_import\bin\Debug\ClassLibrary.xml
